@@ -1,0 +1,13 @@
+import csv
+import re
+
+with open("mhyk-main-story-script.txt") as text_file:
+    with open("mhyk-name-line.csv") as out_file:
+        writer = csv.writer(out_file)
+        writer.writerow(('name', 'line'))
+
+        line = text_file.readline()
+        while line != "":
+            line = re.split("([a-zA-Z|r\s]+): (.+)", line)
+            writer.writerow(line)
+            line = text_file.readline()
