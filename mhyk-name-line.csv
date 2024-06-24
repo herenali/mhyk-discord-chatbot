@@ -472,7 +472,7 @@ Bradley,Why are you hitting yourself!?
 Akira,......This really isn't a dream......
 Snow,The previous sage pinched his own cheeks too.
 Akira,The previous sage......?
-White,That's right,the sage who came before you.
+White,That's right: the sage who came before you.
 Snow,I'll show you something nice.
 White,Come with us.
 Akira,......But......
@@ -721,7 +721,7 @@ Arthur,Why?
 Drummond,They said something about saving a dying wizard......
 Arthur,Some of the wizards got hurt? Why didn't you report this to me?
 Drummond,"W-Well, the Sage could always summon new wizards to replace the ones lost during the battle against the ......."
-Arthur,Don't talk about wizards like that,"they're not weapons you can replace like bows and guns, even if they do possess magic."
+Arthur,"Don't talk about wizards like that: they're not weapons you can replace like bows and guns, even if they do possess magic."
 Drummond,"With all due respect...... To us, the wizards are nothing more than troublesome weapons. Being a wizard yourself, I understand why you might favor them, but......"
 Arthur,......You think I favor them......
 Drummond,"Not all wizards are benevolent beings who help humans, anyway! Just look at Oz, who controlled the world under his rule of terror - he's exactly the kind of wizard I'm talking about! Humans have long suffered under the thumb of wicked wizards!"
@@ -1285,7 +1285,7 @@ Cain,I do feel like I've met him before.
 Murr,I'm quick to forget things that don't interest me.
 Heathcliff,So what is the secretary of Central Country doing here?
 Cock Robin,"Ah, I guess I was taking a walk......."
-Shylock,A word of advice,lies will get you nowhere with wizards.
+Shylock,A word of advice: lies will get you nowhere with wizards.
 Cock Robin,"I'm sorry.... Sir Drummond ordered me to lure the sage out from the magic headquarters! He said, ""So long as we have the sage, we can take over the magic headquarters using military force, and make the wizards listen to our commands!"""
 Cain,What did you just say!?
 Cock Robin,I-it wasn't my idea! Those were just my orders! I didn't want to come near the magic headquarters either! You wizards could kill me! Plus.....
@@ -1644,12 +1644,12 @@ Akira,Yes! I'd love to be of help.
 Arthur,"Thank you, Sir Sage."
 Narrator,"Arthur smiles happily. Suddenly, his gaze wanders around furtively as if he's looking for something - for someone. Our eyes meet, and Arthur, with childish nervousness in his expression, asks hesitantly."
 Arthur,Um...... Would you happen to know where Sir Oz is......
-"At his question, I recall the remark in the sage's manual: Oz and Prince Arthur don't seem to get along."
+Narrator,"At his question, I recall the remark in the sage's manual: Oz and Prince Arthur don't seem to get along."
 Akira,Ah...... He's not around right now. So don't worry.
 Arthur,Is that so......
 Narrator,"Arthur sighs, disappointed. His unexpected reaction makes me feel like I've gotten the wrong idea."
 Akira,(Huh? So maybe they do get along?)
-"Arthur also picks up on the implication behind my words, and blinks with wide, curious eyes as he asks me:"
+Narrator,"Arthur also picks up on the implication behind my words, and blinks with wide, curious eyes as he asks me:"
 Arthur,"What do you mean, ""don't worry""?"
 Akira,"Ah, well...... I thought you didn't want to run into each other......"
 Arthur,Did Sir Oz say that to you?
@@ -2152,7 +2152,7 @@ Cain,"Oz and the Northern wizards are still missing, but we should follow Arthur
 Akira,Yes.
 Chloe,Sir Sage! Sir Sage! I have a guest for you!
 Akira,A guest?
-Envoy,"I-I'm an envoy from the capital, with a message from Prince Arthur","preparations for the parade are still underway, so he would like you to wait here for a while longer."
+Envoy,"I-I'm an envoy from the capital, with a message from Prince Arthur: preparations for the parade are still underway, so he would like you to wait here for a while longer."
 Cain,"I see. The capital must be in disarray, after all."
 Akira,"When should we depart, then?"
 Envoy,"Tomorrow, or the day after.... We will send another envoy your way when preparations are complete. Until then, do relax and spend the time as you please."
@@ -2611,7 +2611,7 @@ Young Central noble,...Ah... Sorry... I got carried away.
 Heathcliff,"....No, it's.... I don't want to stand out too much. Sorry about that......"
 Shino,Why? You should go. Let them speak highly of you.
 Heathcliff,Shino. This has nothing to do with y....
-Shino,You've got plenty to be proud of,"you're a chosen wizard who is as brilliant as Master and as beautiful as Mistress. I am proud to have you as my Lord. But if you can't stop being so ashamed of yourself, then I just look like an idiot."
+Shino,"You've got plenty to be proud of: you're a chosen wizard who is as brilliant as Master and as beautiful as Mistress. I am proud to have you as my Lord. But if you can't stop being so ashamed of yourself, then I just look like an idiot."
 Heathcliff,"....Shut up. You'd never understand, Shino."
 Shino,.......... Is that so. Then keep your eyes on the ground forever.
 Heathcliff,.......
@@ -2848,7 +2848,7 @@ Vincent,"Do not blame him, Nicholas. Arthur is still young. Of course he would s
 Arthur,......I bear no resentment towards Mother.
 Vincent,"Is that so? Then you truly are a wizard. A normal human would despise his parents if they abandoned him. As a normal human, I simply cannot understand."
 Arthur,...... Why do you refuse to listen to anything we have to say!? What is wrong with what I've said? What is wrong with what Rutile said!?
-Nicholas,Please stop acting like you're the victim here,"you are the ones who possess such terrifying power. What strikes fear into the people's hearts isn't just the < Great Catastrophe > - it's you wizards, too."
+Nicholas,"Please stop acting like you're the victim here: you are the ones who possess such terrifying power. What strikes fear into the people's hearts isn't just the < Great Catastrophe > - it's you wizards, too."
 Arthur,"We are all trying to be helpful! That goes for myself, and everyone here in this room......"
 Nicholas,"That might be true for you, Prince Arthur, but it does not mean that the other wizards feel the same way. As we can see, neither the legendary wizard Oz nor the Northern wizards have seen fit to gather here with us today."
 Arthur,......That's........
@@ -5237,7 +5237,7 @@ Snow & White,Ah?
 Mithra,......This is bad......
 Narrator,"Mithra turns pale in an instant. He stands up at once, and lifts his hand. Hurriedly, he draws a large rectangle in the air like he's tracing an invisible door."
 Mithra,<< Arthim >>
-"The next moment, a completely different sight lies before our eyes",it's as if only that particular segment of space has been torn out of the air. On the other side lies the Central capital.
+Narrator,"The next moment, a completely different sight lies before our eyes: it's as if only that particular segment of space has been torn out of the air. On the other side lies the Central capital."
 Snow,"So you're finally in the mood to help us, Mithra."
 White,"Right, right, teleportation is a piece of cake for you! So you're going to take us along?"
 Mithra,"No, this is a personal problem."
