@@ -14,7 +14,7 @@ with open("mhyk-main-story-script.txt") as text_file:
                 line = line.strip("\n")
 
                 if ":" in line and re.search("[0-9]", line) is None:
-                    line_lst = re.split(": ", line)
+                    line_lst = re.split(": ", line, 1)
                     line = text_file.readline()
                 elif re.search("[0-9]", line) is None and re.search("[a-zA-Z]", line) is not None:
                     line_lst.append("Narrator")
