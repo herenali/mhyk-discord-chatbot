@@ -8,15 +8,31 @@ with open("mhyk-main-story-script.txt") as text_file:
 
         line = text_file.readline()
         while line != "":
+            if line == '':
+                break
+
+            line_lst = []
             if line != "\n":
                 line = line.strip("\n")
-                line = re.sub("\n", " ", line)
+
                 if ":" in line:
-                    print(line)
-                    line = re.split(": ", line)
-                # for i in range(len(line)):
-                #     line[i] = re.sub("\n", " ", line[i])
-                writer.writerow(line)
+                    line_lst = re.split(": ", line)
+                    line = text_file.readline()
+                elif re.search("[0-9]", line) is None and re.search("[a-zA-Z]", line) is not None:
+                    line_lst.append('Narrator')
+                    line_lst.append(line)
+                    line = text_file.readline()
+                else:
+                    line = text_file.readline()
+                    continue
+
+                while line != "\n":
+                    line = line.strip("\n")
+                    line_lst[-1] += " " + line
+                    line = text_file.readline()
+                print(line_lst)
+                # writer.writerow(line_lst)
+
             line = text_file.readline()
 
-            # TODO: fix issue of lines cutting off
+            # TODO: fix loop not breaking and last line not reading
