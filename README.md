@@ -2,7 +2,9 @@
 
 <!-- Provide a quick summary of what the model is/does. -->
 
-An AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) fine-tuned on translated scripts from the Japanese mobile game *Mahoustukai no Yakusoku*, also known as [Promise of Wizard]( https://mahoyaku.com/).
+An AI Chatbot using the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium), fine-tuned on translated scripts from the Japanese mobile game *Mahoustukai no Yakusoku*, also known as [Promise of Wizard](https://mahoyaku.com/).
+
+This model was trained on the lines of Murr, an eccentric wizard whose soul was shattered by the moon. He's a really interesting character!
 
 ## Model Details
 
