@@ -1,3 +1,9 @@
+---
+title: murr-discord-bot
+app_file: app.py
+sdk: gradio
+sdk_version: 4.37.1
+---
 # mhyk-discord-chatbot
 
 <!-- Provide a quick summary of what the model is/does. -->
