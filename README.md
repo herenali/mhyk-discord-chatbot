@@ -10,6 +10,8 @@ This model was trained on the lines of Murr, an eccentric wizard whose soul was 
 
 > Murr Hart. His professions are: a jeweler, a philosopher, a professor of mineralogy, an astronomer, a mathematician, an inventor, a renowned scholar.... ... One phrase is enough: "A lunatic genius."
 
+The dataset that I used to fine-tune this model can be found on [Kaggle](https://www.kaggle.com/datasets/herenali/promise-of-wizard-main-story-script).
+
 ### Using the model
 
 This model is hosted on [Hugging Face](https://huggingface.co/herenali/murr-bot). You can chat with it directly in the hosted inference API, or go to [this link](https://huggingface.co/spaces/herenali/murr-bot) to use the demo app hosted on Hugging Face Spaces.
